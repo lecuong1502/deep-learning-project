@@ -1,0 +1,1 @@
+This project is a Parking Space Monitoring System that uses OpenCV (Open Source Computer Vision Library) to analyze a video feed from a car park and determine the availability of parking spaces. The system processes the video frames, applies image processing techniques, and then identifies the number of free parking spaces in real-time.
